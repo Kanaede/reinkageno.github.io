@@ -30,3 +30,9 @@
 .text-recenter {
     text-align: center!important;
 }
+
+@media (min-width:768px) {
+    div .slom {
+        max-width: 740px;
+    }
+}
